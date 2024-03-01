@@ -1,8 +1,6 @@
-# React + Vite
+# React-Color-Picker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p>
+  Hi Fellas! I am back again with a new project a very beginner level but to clear the concepts of react. In this project, you can generate random colors and also can copy the hexcode of your favourite color.
+  For styling, I have used Bootstrap, and Animate.css for rubber animation whenever you hit the copy button, you will see a beautiful animation on the hexcode
+</p>
